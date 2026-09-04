@@ -1,0 +1,7 @@
+file,purpose
+events.csv,Object-centric event log
+objects.csv,All business objects
+event_object_relations.csv,Many-to-many event/object links
+batches.csv,Critical procurement-to-sales lineage object
+sales.csv,Sales linked to batches
+returns.csv,Returns linked to sale and batch

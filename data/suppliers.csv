@@ -1,0 +1,16 @@
+supplier_id,supplier_name,country,supplier_type,rating
+SUP001,Alpha Supply,Poland,Manufacturer,4.5
+SUP002,Beta Trade,Italy,Manufacturer,3.7
+SUP003,Gamma Global,Turkey,Distributor,3.8
+SUP004,Delta Distribution,Netherlands,Manufacturer,3.5
+SUP005,Epsilon Partners,Italy,Manufacturer,4.6
+SUP006,Nordic Source,Turkey,Distributor,4.4
+SUP007,Eastern Bridge,Italy,Manufacturer,4.5
+SUP008,OceanGate Trading,Germany,Manufacturer,4.6
+SUP009,Rapid Source,Netherlands,Distributor,4.1
+SUP010,Prime Import,Poland,Manufacturer,4.3
+SUP011,Vertex Wholesale,Poland,Manufacturer,3.7
+SUP012,Sigma Goods,Netherlands,Distributor,3.7
+SUP013,Atlas Distribution,Germany,Manufacturer,4.4
+SUP014,Central Market,Turkey,Manufacturer,4.2
+SUP015,Green Route,Poland,Distributor,4.3

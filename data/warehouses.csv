@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,warehouse_type
+WH001,Central Hub,Central,Central
+WH002,West Distribution,West,Regional
+WH003,East Distribution,East,Regional
+WH004,South Distribution,South,Regional
+WH005,North Distribution,North,Regional

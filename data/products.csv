@@ -1,0 +1,49 @@
+product_id,product_name,category_id,category_name,brand,standard_cost
+PROD001,Headphones,CAT001,Electronics,Nova,94.68
+PROD002,Smart Watch,CAT001,Electronics,Nova,57.15
+PROD003,Speaker,CAT001,Electronics,Urban,104.16
+PROD004,Tablet,CAT001,Electronics,Prime,86.11
+PROD005,Power Bank,CAT001,Electronics,Prime,18.55
+PROD006,Webcam,CAT001,Electronics,Prime,117.27
+PROD007,Coffee Machine,CAT002,Home Appliances,Nova,93.25
+PROD008,Air Fryer,CAT002,Home Appliances,Pro,96.04
+PROD009,Vacuum,CAT002,Home Appliances,Nova,22.35
+PROD010,Kettle,CAT002,Home Appliances,Pro,58.44
+PROD011,Blender,CAT002,Home Appliances,Eco,49.53
+PROD012,Hair Dryer,CAT002,Home Appliances,Nova,111.8
+PROD013,Office Chair,CAT003,Furniture,Nova,80.11
+PROD014,Desk,CAT003,Furniture,Nova,100.15
+PROD015,Bookshelf,CAT003,Furniture,Prime,57.66
+PROD016,Dining Chair,CAT003,Furniture,Prime,33.45
+PROD017,Side Table,CAT003,Furniture,Pro,70.11
+PROD018,Lamp,CAT003,Furniture,Pro,15.15
+PROD019,Yoga Mat,CAT004,Sports,Nova,100.69
+PROD020,Fitness Tracker,CAT004,Sports,Pro,78.75
+PROD021,Tennis Racket,CAT004,Sports,Prime,92.91
+PROD022,Dumbbells,CAT004,Sports,Pro,47.71
+PROD023,Helmet,CAT004,Sports,Eco,116.72
+PROD024,Bottle,CAT004,Sports,Prime,108.03
+PROD025,Face Serum,CAT005,Beauty,Eco,95.18
+PROD026,Hair Mask,CAT005,Beauty,Pro,29.8
+PROD027,Cleanser,CAT005,Beauty,Urban,60.27
+PROD028,Body Lotion,CAT005,Beauty,Nova,12.91
+PROD029,Perfume,CAT005,Beauty,Prime,25.28
+PROD030,Brush,CAT005,Beauty,Eco,84.5
+PROD031,Coffee,CAT006,Food & Beverage,Urban,91.41
+PROD032,Green Tea,CAT006,Food & Beverage,Urban,116.36
+PROD033,Protein Bar,CAT006,Food & Beverage,Prime,44.49
+PROD034,Olive Oil,CAT006,Food & Beverage,Prime,49.49
+PROD035,Chocolate,CAT006,Food & Beverage,Urban,60.59
+PROD036,Granola,CAT006,Food & Beverage,Nova,29.22
+PROD037,Dog Food,CAT007,Pet Supplies,Nova,22.55
+PROD038,Cat Food,CAT007,Pet Supplies,Eco,61.28
+PROD039,Pet Shampoo,CAT007,Pet Supplies,Nova,33.41
+PROD040,Dog Toy,CAT007,Pet Supplies,Urban,83.02
+PROD041,Pet Bed,CAT007,Pet Supplies,Urban,56.96
+PROD042,Leash,CAT007,Pet Supplies,Pro,101.26
+PROD043,Bed Linen,CAT008,Home & Living,Urban,86.43
+PROD044,Storage Box,CAT008,Home & Living,Nova,42.99
+PROD045,Kitchen Set,CAT008,Home & Living,Eco,101.21
+PROD046,Wall Clock,CAT008,Home & Living,Pro,98.13
+PROD047,Candles,CAT008,Home & Living,Nova,51.4
+PROD048,Towels,CAT008,Home & Living,Eco,40.29

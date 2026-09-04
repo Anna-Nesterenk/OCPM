@@ -1,0 +1,6 @@
+channel_id,channel_name,target_lead_days,delay_probability
+CH001,Road,10,0.08
+CH002,Sea,28,0.15
+CH003,Air,3,0.25
+CH004,Rail,18,0.1
+CH005,Direct,7,0.06
